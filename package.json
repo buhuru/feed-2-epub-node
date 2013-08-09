@@ -14,6 +14,7 @@
     "install": "~0.1.7",
     "feedparser": "~0.16.1",
     "prelude-ls": "~1.0.3",
-    "request": "~2.26.0"
+    "request": "~2.26.0",
+    "blindparser": "~0.1.1"
   }
 }
