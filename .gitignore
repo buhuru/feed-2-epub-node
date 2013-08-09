@@ -1,0 +1,42 @@
+bin
+build
+.classpath
+.gradle
+.project
+.settings
+.springBeans
+*.class
+*.MF
+out
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# exept javascript test environmet
+!JsTestDriver*.jar
+
+# JsTestDriver test results
+*TEST*.xml
+
+
+
+# IntelliJ project files
+*.iml
+*.iws
+*.ipr
+.idea
+
+#winmerge backups
+*.bak
+
+node_kitchen
+*.kitchen.js
+
+#log  files
+*.log
+
+node_modules
+rs-ui-web/src/main/webapp/css/rs/*.css
+rs-ui-web/src/main/webapp/css/rs/*.min.css
